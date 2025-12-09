@@ -49,7 +49,7 @@ This project uses **MAE** and **MAPE**, with MAPE as the primary metric:
 
 ## **Conclusion**
 
-This project successfully developed an XGBoost-based regression model to predict used-car prices in Saudi Arabia. The tuned model achieved a **MAPE of ~19%** and **~MAE 11832 SAR**, indicating reliable accuracy for practical pricing support. Feature importance analysis highlights **`Make_Tier`** as the strongest driver of price variation.
+This project successfully developed an XGBoost-based regression model to predict used-car prices in Saudi Arabia. The tuned model achieved a **MAPE of ~19%** and **~MAE 11832 SAR**, indicating reliable accuracy for practical pricing support. Feature importance analysis highlights **Brand Tier** as the strongest driver of price variation.
 
 Cost-benefit evaluation shows that using the model can reduce potential losses by **10.5 M SAR**, demonstrating clear financial value. Overall, the model provides an effective data-driven tool to support more accurate pricing, improve market transparency, and enhance business performance for used-car transactions in Saudi Arabia.
 
