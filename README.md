@@ -1,6 +1,5 @@
 # Used-Car-Pricing-Optimization-Analysis
 Used Car Pricing Optimization: Predicting Used Cars Price using Machine Learning Model
-Berikut versi **concise**, **clear**, dan cocok untuk README GitHub:
 
 ---
 
