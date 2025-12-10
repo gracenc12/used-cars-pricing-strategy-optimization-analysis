@@ -40,10 +40,10 @@ To stay competitive, the business needs a data-driven pricing model that provide
 
 ## **Evaluation Metrics**
 
-This project uses **MAE** and **MAPE**, with MAPE as the primary metric:
+This project uses **MAPE** and **MAE**, with MAPE as the primary metric:
 
-* **MAE:** Average absolute difference between predicted and actual prices.
 * **MAPE:** Average percentage error relative to actual values.
+* **MAE:** Average absolute difference between predicted and actual prices.
 
 ---
 
