@@ -24,19 +24,19 @@ To stay competitive, the business needs a data-driven pricing model that provide
 ## **Analytical Approach**
 
 1. **Data Understanding**
-   Explore data, detect outliers, and perform EDA.
+   - Explore data, detect outliers, and perform EDA.
 
-2. **Data Preprocessing & Feature Engineering**
-   Clean data, handle missing values, encode categorical features, scale numerical features, analyze correlations, engineer features, and split data.
+3. **Data Preprocessing & Feature Engineering**
+   - Clean data, handle missing values, encode categorical features, scale numerical features, analyze correlations, engineer features, and split data.
 
-3. **Machine Learning Modeling**
-   Train multiple models, benchmark performance, tune hyperparameters, and select the best-performing model.
+4. **Machine Learning Modeling**
+   - Train multiple models, benchmark performance, tune hyperparameters, and select the best-performing model.
 
-4. **Analysis**
-   Interpret feature importance, compare actual vs predicted prices, and assess business impact through cost-benefit analysis.
+5. **Analysis**
+   - Interpret feature importance, compare actual vs predicted prices, and assess business impact through cost-benefit analysis.
 
-5. **Conclusion & Recommendation**
-   Summarize insights and propose pricing optimization strategies.
+6. **Conclusion & Recommendation**
+   - Summarize insights and propose pricing optimization strategies.
 
 ## **Evaluation Metrics**
 
